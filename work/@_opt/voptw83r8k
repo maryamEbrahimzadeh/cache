@@ -1,0 +1,345 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\asus\Documents\4th term\architecht\project
+T_opt
+V0Pm]?<=2`dA@ObF1FPGWD0
+04 12 3 work misshitlogic arc 1
+=1-5ce0c52a2399-59633512-8c-2974
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.1c;51
+Ecache
+Z0 w1499671496
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\asus\Documents\4th term\architecht\cache
+Z5 8C:/Users/asus/Documents/4th term/architecht/project/cache.vhd
+Z6 FC:/Users/asus/Documents/4th term/architecht/project/cache.vhd
+l0
+L4
+V3Uzm9J`52m_CZh0_98QaX2
+Z7 OL;C;10.1c;51
+32
+Z8 !s108 1499672979.884000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/project/cache.vhd|
+Z10 !s107 C:/Users/asus/Documents/4th term/architecht/project/cache.vhd|
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+!s100 NmGF18C<_?hnEJE1Ai_oC0
+!i10b 1
+Aarc
+R1
+R2
+R3
+DEx4 work 5 cache 0 22 3Uzm9J`52m_CZh0_98QaX2
+32
+l64
+L13
+VoO2iZnzjKk`fiD5jbNUQd1
+R7
+R8
+R9
+R10
+R11
+R12
+!s100 LeddI4TZB5XYKEFk_3DQB2
+!i10b 1
+Ecachecontroller
+Z13 w1499672635
+R1
+R2
+R3
+R4
+Z14 8C:\Users\asus\Documents\4th term\architecht\cache\cachecontroller.vhd
+Z15 FC:\Users\asus\Documents\4th term\architecht\cache\cachecontroller.vhd
+l0
+L4
+Vb3;glZ?[T8Q`QbT19Ek2k3
+R7
+32
+Z16 !s108 1499672981.254000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\cache\cachecontroller.vhd|
+Z18 !s107 C:\Users\asus\Documents\4th term\architecht\cache\cachecontroller.vhd|
+R11
+R12
+!s100 ULg26;4C9_M]?^KVZmRBd1
+!i10b 1
+Aarc
+R1
+R2
+R3
+DEx4 work 15 cachecontroller 0 22 b3;glZ?[T8Q`QbT19Ek2k3
+32
+l16
+L12
+VR[T3<`dL`NZNeE0XBVj;20
+R7
+R16
+R17
+R18
+R11
+R12
+!s100 E@Wh187YWh8;2C2d_lhDE1
+!i10b 1
+Ecachemem
+Z19 w1499672964
+R1
+R2
+R3
+R4
+Z20 8C:\Users\asus\Documents\4th term\architecht\project\cachemem.vhd
+Z21 FC:\Users\asus\Documents\4th term\architecht\project\cachemem.vhd
+l0
+L4
+V16K;fL=H0:d=nBMlLi2=V2
+R7
+32
+Z22 !s108 1499672980.030000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\project\cachemem.vhd|
+Z24 !s107 C:\Users\asus\Documents\4th term\architecht\project\cachemem.vhd|
+R11
+R12
+!s100 G1F0^iWjR5h^LJb3Z1BSF3
+!i10b 1
+Aarc
+R1
+R2
+R3
+DEx4 work 8 cachemem 0 22 16K;fL=H0:d=nBMlLi2=V2
+32
+l57
+L15
+V8O7CHhQG:J6BYZACS@fO=1
+R7
+R22
+R23
+R24
+R11
+R12
+!s100 3Ic_d=@_z`^h5R5M^<]nB2
+!i10b 1
+Edataarry
+Z25 w1499627134
+R1
+R2
+R3
+R4
+Z26 8C:/Users/asus/Documents/4th term/architecht/project/data array.vhd
+Z27 FC:/Users/asus/Documents/4th term/architecht/project/data array.vhd
+l0
+L5
+VZHH_6]lUWM:ZI:z46MTH92
+R7
+32
+Z28 !s108 1499672980.184000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/project/data array.vhd|
+Z30 !s107 C:/Users/asus/Documents/4th term/architecht/project/data array.vhd|
+R11
+R12
+!s100 FG]ef]8>P@BDC8Y_kHLVY1
+!i10b 1
+Aarc
+R1
+R2
+R3
+DEx4 work 8 dataarry 0 22 ZHH_6]lUWM:ZI:z46MTH92
+32
+l19
+L16
+Vj2gJG5EhmENMIac]hUGPQ0
+R7
+R28
+R29
+R30
+R11
+R12
+!s100 1>e1NaQN4QiLOieJ`:A;Y1
+!i10b 1
+Ememorycache
+Z31 w1499663178
+R1
+R2
+R3
+R4
+Z32 8C:/Users/asus/Documents/4th term/architecht/project/memorycache.vhd
+Z33 FC:/Users/asus/Documents/4th term/architecht/project/memorycache.vhd
+l0
+L11
+V=Z7diT4B[eF1gWohFO:K_1
+R7
+32
+Z34 !s108 1499672980.496000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/project/memorycache.vhd|
+Z36 !s107 C:/Users/asus/Documents/4th term/architecht/project/memorycache.vhd|
+R11
+R12
+!s100 Pg27`dC;_zhbPEzheWX372
+!i10b 1
+Abehavioral
+R1
+R2
+R3
+DEx4 work 11 memorycache 0 22 =Z7diT4B[eF1gWohFO:K_1
+32
+l26
+L24
+Vm52RgLPikH[UEBmgP[C6b0
+R7
+R34
+R35
+R36
+R11
+R12
+!s100 caRl;cg?MR6g<ZY0nk5?I0
+!i10b 1
+Emisshitlogic
+Z37 w1499673573
+R1
+R2
+R3
+R4
+Z38 8C:\Users\asus\Documents\4th term\architecht\project\hit miss logic.vhd
+Z39 FC:\Users\asus\Documents\4th term\architecht\project\hit miss logic.vhd
+l0
+L6
+VGMi=lNB^F=H>nH?DmbF>d3
+R7
+32
+Z40 !s108 1499673578.138000
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\project\hit miss logic.vhd|
+Z42 !s107 C:\Users\asus\Documents\4th term\architecht\project\hit miss logic.vhd|
+R11
+R12
+!s100 LE=<852HfKhLN@gEeiIdB2
+!i10b 1
+Aarc
+R1
+R2
+R3
+DEx4 work 12 misshitlogic 0 22 GMi=lNB^F=H>nH?DmbF>d3
+32
+l18
+L17
+VC]SEb621bE7fLG:a;MQN>0
+R7
+R40
+R41
+R42
+R11
+R12
+!s100 zTbDYa3DPNOjN]SO[ljQ^2
+!i10b 1
+Emru_array
+Z43 w1499671284
+R1
+R2
+R3
+R4
+Z44 8C:/Users/asus/Documents/4th term/architecht/project/mru-array.vhd
+Z45 FC:/Users/asus/Documents/4th term/architecht/project/mru-array.vhd
+l0
+L5
+V^9N0e4`RPMa;m=WWP^Bj:3
+R7
+32
+Z46 !s108 1499672980.796000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/project/mru-array.vhd|
+Z48 !s107 C:/Users/asus/Documents/4th term/architecht/project/mru-array.vhd|
+R11
+R12
+!s100 L1M]m@`ibH_0i__>YMMVT1
+!i10b 1
+Abehavorial
+R1
+R2
+R3
+DEx4 work 9 mru_array 0 22 ^9N0e4`RPMa;m=WWP^Bj:3
+32
+l20
+L16
+V2D4RZiInH@N@>c<UF[DO?0
+R7
+R46
+R47
+R48
+R11
+R12
+!s100 4D0j3bdjC<OQWCJnhW]=?1
+!i10b 1
+Emux
+Z49 w1499636106
+R1
+R2
+R3
+R4
+Z50 8C:/Users/asus/Documents/4th term/architecht/project/muxcache.vhd
+Z51 FC:/Users/asus/Documents/4th term/architecht/project/muxcache.vhd
+l0
+L5
+V<AnSm7gFFXGL3>L8D?>md2
+R7
+32
+Z52 !s108 1499672980.953000
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/project/muxcache.vhd|
+Z54 !s107 C:/Users/asus/Documents/4th term/architecht/project/muxcache.vhd|
+R11
+R12
+!s100 FG3Oad8cVg4Fmg@^hF:E]3
+!i10b 1
+Abehavioral
+R1
+R2
+R3
+DEx4 work 3 mux 0 22 <AnSm7gFFXGL3>L8D?>md2
+32
+l15
+L14
+V<gd@Z??8STVe=D02i45^Z3
+R7
+R52
+R53
+R54
+R11
+R12
+!s100 k8G@=;aeeolk3c><^R50Q0
+!i10b 1
+Etag_valid_array
+Z55 w1499627136
+R1
+R2
+R3
+R4
+Z56 8C:/Users/asus/Documents/4th term/architecht/project/tag valid array.vhd
+Z57 FC:/Users/asus/Documents/4th term/architecht/project/tag valid array.vhd
+l0
+L4
+V]21@[?A^ZD<=`OglA?:`l3
+R7
+32
+Z58 !s108 1499672981.103000
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/project/tag valid array.vhd|
+Z60 !s107 C:/Users/asus/Documents/4th term/architecht/project/tag valid array.vhd|
+R11
+R12
+!s100 ;7P]BAQYE1@_DN]0PC>:j3
+!i10b 1
+Aarc
+R1
+R2
+R3
+DEx4 work 15 tag_valid_array 0 22 ]21@[?A^ZD<=`OglA?:`l3
+32
+l15
+L11
+VSa]3>n8CQF>C1Pj:]=g?g2
+R7
+R58
+R59
+R60
+R11
+R12
+!s100 0;Y^6zUWiFF^;dZTKR?QD3
+!i10b 1

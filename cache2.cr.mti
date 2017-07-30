@@ -1,0 +1,99 @@
+{C:/Users/asus/Documents/4th term/architecht/project/mru-array.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:\Users\asus\Documents\4th term\architecht\project\mru-array.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mru_array
+-- Compiling architecture behavorial of mru_array
+
+} {} {}} {C:/Users/asus/Documents/4th term/architecht/cache/cachemem.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:\Users\asus\Documents\4th term\architecht\cache\cachemem.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity cachemem
+-- Compiling architecture arc of cachemem
+
+} {} {}} {C:/Users/asus/Documents/4th term/architecht/cache/mru.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:\Users\asus\Documents\4th term\architecht\cache\mru.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mru_array
+-- Compiling architecture behavorial of mru_array
+
+} {} {}} {C:/Users/asus/Documents/4th term/architecht/cache/cachecontroller.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/asus/Documents/4th term/architecht/cache/cachecontroller.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity cachecontroller
+-- Compiling architecture arc of cachecontroller
+
+} {} {}} {C:/Users/asus/Documents/4th term/architecht/cache/cache.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:\Users\asus\Documents\4th term\architecht\cache\cache.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity cache
+-- Compiling architecture arc of cache
+
+} {} {}} {C:/Users/asus/Documents/4th term/architecht/cache/tagvalid.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:\Users\asus\Documents\4th term\architecht\cache\tagvalid.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tag_valid_array
+-- Compiling architecture arc of tag_valid_array
+
+} {} {}} {C:/Users/asus/Documents/4th term/architecht/cache/testbench.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/asus/Documents/4th term/architecht/cache/testbench.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity testbench
+-- Compiling architecture rtl of testbench
+
+} {} {}} {C:/Users/asus/Documents/4th term/architecht/cache/dataarray.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:\Users\asus\Documents\4th term\architecht\cache\dataarray.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity dataarry
+-- Compiling architecture arc of dataarry
+
+} {} {}} {C:/Users/asus/Documents/4th term/architecht/cache/memorycache.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:\Users\asus\Documents\4th term\architecht\cache\memorycache.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity memorycache
+-- Compiling architecture behavioral of memorycache
+
+} {} {}} {C:/Users/asus/Documents/4th term/architecht/cache/hitmiss.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:\Users\asus\Documents\4th term\architecht\cache\hitmiss.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity misshitlogic
+-- Compiling architecture arc of misshitlogic
+
+} {} {}} {C:/Users/asus/Documents/4th term/architecht/cache/muxcaceh.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:\Users\asus\Documents\4th term\architecht\cache\muxcaceh.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mux
+-- Compiling architecture behavioral of mux
+
+} {} {}}
